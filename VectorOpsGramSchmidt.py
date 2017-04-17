@@ -1,6 +1,4 @@
-#This program computes vector operations in R^3
-#Need to work on rounding
-
+#This program computes vector operations in R^3. Need to work on rounding. May be helpful for STEM first year undergrads.
 import math
 
 dot=lambda u,v: (u[0]*v[0]+u[1]*v[1]+u[2]*v[2])
